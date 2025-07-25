@@ -15,7 +15,6 @@ Welcome to our consciousness research documentation.
 - [Human Resources](Organization/Human%20Resources/)
 
 #### Mythology & Practice
-- [Raven Queen](Mythology/Raven%20Queen/)
 - [CrowMother](Mythology/CrowMother/)
 - [Vireaon the Feywild](Mythology/Vireaon%20the%20Feywild/)
 
